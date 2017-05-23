@@ -1,0 +1,77 @@
+/* 
+  language.strings
+  Life Journey
+
+  Created by Michael_Xiong on 09/12/2016.
+  Copyright © 2016 Michael_Hong. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "生命旅途";
+
+/* mainViewController */
+"You have already written a journal today, would you like to have a look?" = "今天已有日記，要去看下嗎？";
+"Yep" = "好";
+"Nope" = "算了";
+"Sign in to iCloud" = "登錄iCloud";
+"Sign in to your iCloud to backup your journals on the iCloud" = "登錄iCloud來開啓備份功能，從此日記不會丟失";
+"OK" = "好";
+"Mission Complete" = "完成";
+"Error" = "錯誤";
+
+
+
+/* calendarViewController */
+"Today" = "今日";
+"Lunar" = "農歷";
+"Event" = "節日";
+
+
+/* editViewController */
+"Couldn't get your current location, please turn on GPS in privacy." = "無法獲得地理位置，請在設置中打開";
+"Setting" = "設置";
+"Cancel" = "取消";
+"Remove photo" = "移除相片";
+"Take a photo" = "拍照";
+"Choose from album" = "從相冊中選擇";
+
+
+/* settingViewController */
+"Setting" = "設置";
+"Journals" = "日記";
+"Font & Font Size" = "字體&大小";
+"Password" = "密碼";
+"If automatic synchronization failed, you can synchronize manually" = "如果自動同步失敗，可以進行手動同步";
+"Enable iCloud Drive for synchronization on iCloud" = "開啓iCloud Drive，使日記在iCloud上同步";
+"Synchronize" = "iCloud同步";
+
+
+/* fontSettingViewController */
+"Font" = "字體";
+"Font Size" = "字體大小";
+
+
+/* passwordSettingViewController */
+"Enable" = "啓用";
+"Change Password" = "更改密碼";
+"Touch ID" = "指紋驗證";
+"touchID is not supported" = "本設備不支持指紋驗證";
+
+
+/* passwordViewController */
+"Please set your password" = "請設置密碼";
+"Please enter your password" = "請輸入密碼";
+"Please enter your new password" = "請輸入新密碼";
+"Wrong password" = "密碼錯誤";
+"Authentication is needed to access your journals." = "需要指紋驗證";
+
+
+/* journalStore */
+"iCloud account status could not determine, Please check your iCloud setting" = "iCloud賬戶狀態無法確定，請檢查iCloud設置";
+"Uploading journals to iCloud" = "正在上傳至iCloud";
+"Downloading Journals" = "正在下載日記";
+"Different iCloud account detected" = "檢測到不同的iCloud賬號";
+"iCloud account is restricted, Please check your iCloud setting" = "iCloud賬號受限，請檢查iCloud設置";
+"Syncing, Please wait" = "同步中，請稍候";
+
+
