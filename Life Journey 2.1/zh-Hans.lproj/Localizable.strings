@@ -1,0 +1,78 @@
+/* 
+  language.strings
+  Life Journey
+
+  Created by Michael_Xiong on 09/12/2016.
+  Copyright © 2016 Michael_Hong. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "生命旅途";
+
+/* mainViewController */
+"You have already written a journal today, would you like to have a look?" = "今天已有日记，要去看下吗？";
+"Yep" = "好";
+"Nope" = "算了";
+"Enable iCloud Drive" = "开启iCloud Drive";
+"Please enable iCloud Drive to backup your journals on iCloud" = "请启用iCloud Drive来开启备份功能，从此日记不会丢失";
+"OK" = "好";
+"Mission Complete" = "完成";
+"Error" = "错误";
+
+
+
+/* calendarViewController */
+"Today" = "今日";
+"Lunar" = "农历";
+"Event" = "节日";
+
+
+/* LJJournalListTableViewController */
+"Drag down to synchronize" = "下拉同步";
+
+
+/* editViewController */
+"Couldn't get your current location, please turn on GPS in privacy." = "无法获得地理位置，请在设置中打开";
+"Setting" = "设置";
+"Cancel" = "取消";
+"Remove photo" = "移除照片";
+"Take a photo" = "拍照";
+"Choose from album" = "从相册中选择";
+
+
+/* settingViewController */
+"Setting" = "设置";
+"Journals" = "日记";
+"Font & Font Size" = "字体&大小";
+"Password" = "密码";
+
+
+
+/* fontSettingViewController */
+"Font" = "字体";
+"Font Size" = "字体大小";
+
+
+/* passwordSettingViewController */
+"Enable" = "启用";
+"Change Password" = "更改密码";
+"Touch ID" = "指纹验证";
+"touchID is not supported" = "本设备不支持指纹验证";
+
+
+/* passwordViewController */
+"Please set your password" = "请设置密码";
+"Please enter your password" = "请输入密码";
+"Please enter your new password" = "请输入新密码";
+"Wrong password" = "密码错误";
+"Authentication is needed to access your journals." = "需要指纹验证";
+
+
+/* journalStore */
+"iCloud account status could not determine, Please check your iCloud setting" = "iCloud账户状态无法确定，请检查iCloud设置";
+"Uploading journals to iCloud" = "正在上传至iCloud";
+"Downloading Journals" = "正在下载日记";
+"Different iCloud account detected" = "检测到不同的iCloud账号";
+"iCloud account is restricted, Please check your iCloud setting" = "iCloud账号受限，请检查iCloud设置";
+"Syncing, Please wait" = "同步中，请稍候";
+

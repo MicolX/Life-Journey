@@ -1,0 +1,75 @@
+/* 
+  language.strings
+  Life Journey
+
+  Created by Michael_Xiong on 09/12/2016.
+  Copyright © 2016 Michael_Hong. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "Life Journey";
+
+/* mainViewController */
+"You have already written a journal today, would you like to have a look?" = "You have already written a journal today, would you like to have a look?";
+"Yep" = "Yep";
+"Nope" = "Nope";
+"Enable iCloud Drive" = "Enable iCloud Drive";
+"Please enable iCloud Drive to backup your journals on iCloud" = "Please enable iCloud Drive to backup your journals on iCloud";
+"OK" = "OK";
+"Mission Complete" = "Mission Complete";
+"Error" = "Error";
+
+/* calendarViewController */
+"Today" = "Today";
+"Lunar" = "Lunar";
+"Event" = "Event";
+
+
+/* LJJournalListTableViewController */
+"Drag down to synchronize" = "Drag down to synchronize";
+
+
+/* editViewController */
+"Couldn't get your current location, please turn on GPS in privacy." = "Couldn't get your current location, please turn on GPS in privacy.";
+"Setting" = "Setting";
+"Cancel" = "Cancel";
+"Remove photo" = "Remove photo";
+"Take a photo" = "Take a photo";
+"Choose from album" = "Choose from album";
+
+
+/* fontSettingViewController */
+"Font" = "Font";
+"Font Size" = "Font Size";
+
+/* settingViewController */
+"Font & Font Size" = "Font & Font Size";
+"Setting" = "Setting";
+"Journals" = "Journals";
+"Password" = "Password";
+
+
+/* passwordSettingViewController */
+"Enable" = "Enable";
+"Change Password" = "Change Password";
+"Touch ID" = "Touch ID";
+"touchID is not supported" = "touchID is not supported";
+
+
+/* passwordViewController */
+"Please set your password" = "Please set your password";
+"Please enter your password" = "Please enter your password";
+"Please enter your new password" = "Please enter your new password";
+"Wrong password" = "Wrong password";
+"Authentication is needed to access your journals." = "Authentication is needed to access your journals.";
+
+
+/* journalStore */
+"iCloud account status could not determine, Please check your iCloud setting" = "iCloud account status could not determine, Please check your iCloud setting";
+"Uploading journals to iCloud" = "Uploading journals to iCloud";
+"Downloading Journals" = "Downloading Journals";
+"Different iCloud account detected" = "Different iCloud account detected";
+"iCloud account is restricted, Please check your iCloud setting" = "iCloud account is restricted, Please check your iCloud setting";
+"Syncing, Please wait" = "Syncing, Please wait";
+
+
